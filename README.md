@@ -1,17 +1,26 @@
-<h1 align="center">Hi 👋, I'm Abdoon Nur</h1>
-<h3 align="center">A passionate Full Stack Software Engineer</h3>
+<h1 align="left">Hi 👋, I'm Abdoon Nur</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abir1006&label=Profile%20views&color=0e75b6&style=flat" alt="abir1006" /> </p>
+Passionate and experienced Full Stack Software Engineer with over 10 years of experience. Skilled in developing and designing complex software systems across various domains such as Banking, Financial, Health, eCommerce, Inventory, and Freight, while following Agile (Scrum) methodology. Known for critical thinking and complex problem-solving abilities.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abir1006" alt="abir1006" /></a> </p>
+Highly skilled in: 
 
-- 🔭 Recently working on **Feedhub developed in Laravel, Spring Boot, ReactJS**
+- Java (Spring Boot), 👉 Total 4 years of working experiences 
 
-- 🌱 I’m currently learning **Kubernetes, Kafka**
+- PHP (Laravel), 👉 Total 10 years of working experiences 
 
-- 👯 Recently finished **AquaTools developed in Laravel, ReactJS**
+- JavaScript (ReactJS), 👉 Total 5 years of working experiences 
 
-- 🤝 Recently finished **Overvinne developed in Laravel, ReactJS**
+- Python (Flask, Django), 👉 Total 1 year of working experiences 
+
+- CMS (WordPress), 👉 Total 5 years of working experiences 
+
+👉 Recently working on **Feedhub developed in Laravel, Spring Boot, ReactJS**
+
+👉 I’m currently learning **Kubernetes, Kafka**
+
+👉 Recently finished **AquaTools developed in Laravel, ReactJS**
+
+👉 Recently finished **Overvinne developed in Laravel, ReactJS**
 
 - 💬 Ask me about **Laravel, Java Spring Boot, ReactJS**
 
