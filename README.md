@@ -14,13 +14,13 @@ Highly skilled in:
 
 - CMS (WordPress), 👉 Total 5 years of working experiences 
 
-👉 Recently working on **Feedhub developed in Laravel, Spring Boot, ReactJS**
-
-👉 I’m currently learning **Kubernetes, Kafka**
+👉 Recently working on project **Feedhub developed in Laravel, Spring Boot, ReactJS**
 
 👉 Recently finished **AquaTools developed in Laravel, ReactJS**
 
 👉 Recently finished **Overvinne developed in Laravel, ReactJS**
+
+👉 I’m currently learning **Kubernetes, Kafka**
 
 - 💬 Ask me about **Laravel, Java Spring Boot, ReactJS**
 
